@@ -10,3 +10,8 @@
 ## Общее
 
 - Курс по Машинному обучению и анализу данных на Coursera: https://www.coursera.org/specializations/machine-learning-data-analysis
+
+### License
+
+Copyright © 2017, [BioinfoGroup](http://github.com/BioinfoGroup).
+Released under the [GNU AGPLv3](LICENSE).
